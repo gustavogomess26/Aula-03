@@ -1,0 +1,29 @@
+body{background-color: aqua;}
+header{background-color: rgb(50, 136, 194);
+        border-color: black;
+        text-align: center;
+        box-shadow: 10px 10px 10px royalblue;
+        text-shadow: 5px 5px 5px whitesmoke;
+        margin-left: 300px;
+        margin-right: 300px;
+        border-radius: 15px;
+}
+main{background-color: rgb(50, 136, 194);
+    border-color: black;
+    text-align: center;
+    box-shadow: 10px 10px 10px royalblue;
+    text-shadow: 5px 5px 5px whitesmoke;
+     margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 15px;
+}
+
+footer{background-color: rgb(50, 136, 194);
+    border-color: black;
+    text-align: center;
+    box-shadow: 10px 10px 10px royalblue;
+    text-shadow: 5px 5px 5px whitesmoke;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 15px;
+}
